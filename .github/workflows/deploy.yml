@@ -5,6 +5,8 @@ on:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * 1"
 
 permissions:
   contents: read
@@ -31,6 +33,11 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Refresh country data
+        run: npm run data:refresh
+        env:
+          RESTCOUNTRIES_API_KEY: ${{ secrets.RESTCOUNTRIES_API_KEY }}
 
       - name: Build
         run: npm run build

@@ -1,18 +1,30 @@
 import { useState, useEffect } from "react";
 import ListCard from "./components/ListCard";
-//  https://restcountries.com/v3.1/region/europe
+
 function App() {
   const [countries, setCountries] = useState([]);
+  const [error, setError] = useState("");
 
   useEffect(() => {
-    fetch(`https://restcountries.com/v3.1/region/europe`)
-      .then((res) => res.json())
-      .then((data) => {
-        data.sort((a, b) => a.name.common.localeCompare(b.name.common)); // Sort countries alphabetically by name
-        setCountries(data);
-        console.log(data);
+    fetch(`${import.meta.env.BASE_URL}data/europe.json`)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`Erreur HTTP ${response.status}`);
+        }
+
+        return response.json();
       })
-      .catch((err) => console.error("Error fetching countries:", err));
+      .then((data) => {
+        if (!Array.isArray(data)) {
+          throw new Error("Le format des données est invalide.");
+        }
+
+        setCountries(data);
+      })
+      .catch((fetchError) => {
+        console.error("Error fetching countries:", fetchError);
+        setError("Les données des pays sont temporairement indisponibles.");
+      });
   }, []);
 
   return (
@@ -22,10 +34,11 @@ function App() {
         <p className="text-gray-100 text-xl mb-8">
           Click on a card to reveal a country's information.
         </p>
-        {countries && (
+        {error && <p className="text-red-300 text-lg">{error}</p>}
+        {!error && (
           <ul className="grid min-[450px]:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 auto-rows-[200px]">
-            {countries.map((country, index) => (
-              <ListCard key={index} country={country} />
+            {countries.map((country) => (
+              <ListCard key={country.cca2} country={country} />
             ))}
           </ul>
         )}

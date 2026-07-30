@@ -1,0 +1,875 @@
+﻿[
+    {
+        "cca2":  "AX",
+        "name":  {
+                     "common":  "Åland Islands"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/ax.svg"
+                  },
+        "languages":  {
+                          "swe":  "Swedish"
+                      },
+        "capital":  [
+                        "Mariehamn"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "AL",
+        "name":  {
+                     "common":  "Albania"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/al.svg"
+                  },
+        "languages":  {
+                          "sqi":  "Albanian"
+                      },
+        "capital":  [
+                        "Tirana"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "AD",
+        "name":  {
+                     "common":  "Andorra"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/ad.svg"
+                  },
+        "languages":  {
+                          "cat":  "Catalan"
+                      },
+        "capital":  [
+                        "Andorra la Vella"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "AT",
+        "name":  {
+                     "common":  "Austria"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/at.svg"
+                  },
+        "languages":  {
+                          "bar":  "Austro-Bavarian German"
+                      },
+        "capital":  [
+                        "Vienna"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "BY",
+        "name":  {
+                     "common":  "Belarus"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/by.svg"
+                  },
+        "languages":  {
+                          "bel":  "Belarusian",
+                          "rus":  "Russian"
+                      },
+        "capital":  [
+                        "Minsk"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "BE",
+        "name":  {
+                     "common":  "Belgium"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/be.svg"
+                  },
+        "languages":  {
+                          "deu":  "German",
+                          "fra":  "French",
+                          "nld":  "Dutch"
+                      },
+        "capital":  [
+                        "Brussels"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "BA",
+        "name":  {
+                     "common":  "Bosnia and Herzegovina"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/ba.svg"
+                  },
+        "languages":  {
+                          "bos":  "Bosnian",
+                          "hrv":  "Croatian",
+                          "srp":  "Serbian"
+                      },
+        "capital":  [
+                        "Sarajevo"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "BG",
+        "name":  {
+                     "common":  "Bulgaria"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/bg.svg"
+                  },
+        "languages":  {
+                          "bul":  "Bulgarian"
+                      },
+        "capital":  [
+                        "Sofia"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "HR",
+        "name":  {
+                     "common":  "Croatia"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/hr.svg"
+                  },
+        "languages":  {
+                          "hrv":  "Croatian"
+                      },
+        "capital":  [
+                        "Zagreb"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "CY",
+        "name":  {
+                     "common":  "Cyprus"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/cy.svg"
+                  },
+        "languages":  {
+                          "ell":  "Greek",
+                          "tur":  "Turkish"
+                      },
+        "capital":  [
+                        "Nicosia"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "CZ",
+        "name":  {
+                     "common":  "Czechia"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/cz.svg"
+                  },
+        "languages":  {
+                          "ces":  "Czech",
+                          "slk":  "Slovak"
+                      },
+        "capital":  [
+                        "Prague"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "DK",
+        "name":  {
+                     "common":  "Denmark"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/dk.svg"
+                  },
+        "languages":  {
+                          "dan":  "Danish"
+                      },
+        "capital":  [
+                        "Copenhagen"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "EE",
+        "name":  {
+                     "common":  "Estonia"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/ee.svg"
+                  },
+        "languages":  {
+                          "est":  "Estonian"
+                      },
+        "capital":  [
+                        "Tallinn"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "FO",
+        "name":  {
+                     "common":  "Faroe Islands"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/fo.svg"
+                  },
+        "languages":  {
+                          "dan":  "Danish",
+                          "fao":  "Faroese"
+                      },
+        "capital":  [
+                        "Tórshavn"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "FI",
+        "name":  {
+                     "common":  "Finland"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/fi.svg"
+                  },
+        "languages":  {
+                          "fin":  "Finnish",
+                          "swe":  "Swedish"
+                      },
+        "capital":  [
+                        "Helsinki"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "FR",
+        "name":  {
+                     "common":  "France"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/fr.svg"
+                  },
+        "languages":  {
+                          "fra":  "French"
+                      },
+        "capital":  [
+                        "Paris"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "DE",
+        "name":  {
+                     "common":  "Germany"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/de.svg"
+                  },
+        "languages":  {
+                          "deu":  "German"
+                      },
+        "capital":  [
+                        "Berlin"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "GI",
+        "name":  {
+                     "common":  "Gibraltar"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/gi.svg"
+                  },
+        "languages":  {
+                          "eng":  "English"
+                      },
+        "capital":  [
+                        "Gibraltar"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "GR",
+        "name":  {
+                     "common":  "Greece"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/gr.svg"
+                  },
+        "languages":  {
+                          "ell":  "Greek"
+                      },
+        "capital":  [
+                        "Athens"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "GG",
+        "name":  {
+                     "common":  "Guernsey"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/gg.svg"
+                  },
+        "languages":  {
+                          "eng":  "English",
+                          "fra":  "French",
+                          "nfr":  "Guernésiais"
+                      },
+        "capital":  [
+                        "St. Peter Port"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "HU",
+        "name":  {
+                     "common":  "Hungary"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/hu.svg"
+                  },
+        "languages":  {
+                          "hun":  "Hungarian"
+                      },
+        "capital":  [
+                        "Budapest"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "IS",
+        "name":  {
+                     "common":  "Iceland"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/is.svg"
+                  },
+        "languages":  {
+                          "isl":  "Icelandic"
+                      },
+        "capital":  [
+                        "Reykjavik"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "IE",
+        "name":  {
+                     "common":  "Ireland"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/ie.svg"
+                  },
+        "languages":  {
+                          "eng":  "English",
+                          "gle":  "Irish"
+                      },
+        "capital":  [
+                        "Dublin"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "IM",
+        "name":  {
+                     "common":  "Isle of Man"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/im.svg"
+                  },
+        "languages":  {
+                          "eng":  "English",
+                          "glv":  "Manx"
+                      },
+        "capital":  [
+                        "Douglas"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "IT",
+        "name":  {
+                     "common":  "Italy"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/it.svg"
+                  },
+        "languages":  {
+                          "ita":  "Italian"
+                      },
+        "capital":  [
+                        "Rome"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "JE",
+        "name":  {
+                     "common":  "Jersey"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/je.svg"
+                  },
+        "languages":  {
+                          "eng":  "English",
+                          "fra":  "French",
+                          "nrf":  "Jèrriais"
+                      },
+        "capital":  [
+                        "Saint Helier"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "XK",
+        "name":  {
+                     "common":  "Kosovo"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/xk.svg"
+                  },
+        "languages":  {
+                          "sqi":  "Albanian",
+                          "srp":  "Serbian"
+                      },
+        "capital":  [
+                        "Pristina"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "LV",
+        "name":  {
+                     "common":  "Latvia"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/lv.svg"
+                  },
+        "languages":  {
+                          "lav":  "Latvian"
+                      },
+        "capital":  [
+                        "Riga"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "LI",
+        "name":  {
+                     "common":  "Liechtenstein"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/li.svg"
+                  },
+        "languages":  {
+                          "deu":  "German"
+                      },
+        "capital":  [
+                        "Vaduz"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "LT",
+        "name":  {
+                     "common":  "Lithuania"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/lt.svg"
+                  },
+        "languages":  {
+                          "lit":  "Lithuanian"
+                      },
+        "capital":  [
+                        "Vilnius"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "LU",
+        "name":  {
+                     "common":  "Luxembourg"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/lu.svg"
+                  },
+        "languages":  {
+                          "deu":  "German",
+                          "fra":  "French",
+                          "ltz":  "Luxembourgish"
+                      },
+        "capital":  [
+                        "Luxembourg"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "MT",
+        "name":  {
+                     "common":  "Malta"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/mt.svg"
+                  },
+        "languages":  {
+                          "eng":  "English",
+                          "mlt":  "Maltese"
+                      },
+        "capital":  [
+                        "Valletta"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "MD",
+        "name":  {
+                     "common":  "Moldova"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/md.svg"
+                  },
+        "languages":  {
+                          "ron":  "Moldavian"
+                      },
+        "capital":  [
+                        "Chișinău"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "MC",
+        "name":  {
+                     "common":  "Monaco"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/mc.svg"
+                  },
+        "languages":  {
+                          "fra":  "French"
+                      },
+        "capital":  [
+                        "Monaco"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "ME",
+        "name":  {
+                     "common":  "Montenegro"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/me.svg"
+                  },
+        "languages":  {
+                          "cnr":  "Montenegrin"
+                      },
+        "capital":  [
+                        "Podgorica"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "NL",
+        "name":  {
+                     "common":  "Netherlands"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/nl.svg"
+                  },
+        "languages":  {
+                          "nld":  "Dutch"
+                      },
+        "capital":  [
+                        "Amsterdam"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "MK",
+        "name":  {
+                     "common":  "North Macedonia"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/mk.svg"
+                  },
+        "languages":  {
+                          "mkd":  "Macedonian"
+                      },
+        "capital":  [
+                        "Skopje"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "NO",
+        "name":  {
+                     "common":  "Norway"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/no.svg"
+                  },
+        "languages":  {
+                          "nno":  "Norwegian Nynorsk",
+                          "nob":  "Norwegian Bokmål",
+                          "smi":  "Sami"
+                      },
+        "capital":  [
+                        "Oslo"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "PL",
+        "name":  {
+                     "common":  "Poland"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/pl.svg"
+                  },
+        "languages":  {
+                          "pol":  "Polish"
+                      },
+        "capital":  [
+                        "Warsaw"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "PT",
+        "name":  {
+                     "common":  "Portugal"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/pt.svg"
+                  },
+        "languages":  {
+                          "por":  "Portuguese"
+                      },
+        "capital":  [
+                        "Lisbon"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "RO",
+        "name":  {
+                     "common":  "Romania"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/ro.svg"
+                  },
+        "languages":  {
+                          "ron":  "Romanian"
+                      },
+        "capital":  [
+                        "Bucharest"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "RU",
+        "name":  {
+                     "common":  "Russia"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/ru.svg"
+                  },
+        "languages":  {
+                          "rus":  "Russian"
+                      },
+        "capital":  [
+                        "Moscow"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "SM",
+        "name":  {
+                     "common":  "San Marino"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/sm.svg"
+                  },
+        "languages":  {
+                          "ita":  "Italian"
+                      },
+        "capital":  [
+                        "City of San Marino"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "RS",
+        "name":  {
+                     "common":  "Serbia"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/rs.svg"
+                  },
+        "languages":  {
+                          "srp":  "Serbian"
+                      },
+        "capital":  [
+                        "Belgrade"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "SK",
+        "name":  {
+                     "common":  "Slovakia"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/sk.svg"
+                  },
+        "languages":  {
+                          "slk":  "Slovak"
+                      },
+        "capital":  [
+                        "Bratislava"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "SI",
+        "name":  {
+                     "common":  "Slovenia"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/si.svg"
+                  },
+        "languages":  {
+                          "slv":  "Slovene"
+                      },
+        "capital":  [
+                        "Ljubljana"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "ES",
+        "name":  {
+                     "common":  "Spain"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/es.svg"
+                  },
+        "languages":  {
+                          "spa":  "Spanish"
+                      },
+        "capital":  [
+                        "Madrid"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "SJ",
+        "name":  {
+                     "common":  "Svalbard and Jan Mayen"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/sj.svg"
+                  },
+        "languages":  {
+                          "nor":  "Norwegian"
+                      },
+        "capital":  [
+                        "Longyearbyen"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "SE",
+        "name":  {
+                     "common":  "Sweden"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/se.svg"
+                  },
+        "languages":  {
+                          "swe":  "Swedish"
+                      },
+        "capital":  [
+                        "Stockholm"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "CH",
+        "name":  {
+                     "common":  "Switzerland"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/ch.svg"
+                  },
+        "languages":  {
+                          "fra":  "French",
+                          "gsw":  "Swiss German",
+                          "ita":  "Italian",
+                          "roh":  "Romansh"
+                      },
+        "capital":  [
+                        "Bern"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "UA",
+        "name":  {
+                     "common":  "Ukraine"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/ua.svg"
+                  },
+        "languages":  {
+                          "ukr":  "Ukrainian"
+                      },
+        "capital":  [
+                        "Kyiv"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "GB",
+        "name":  {
+                     "common":  "United Kingdom"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/gb.svg"
+                  },
+        "languages":  {
+                          "eng":  "English"
+                      },
+        "capital":  [
+                        "London"
+                    ],
+        "population":  0
+    },
+    {
+        "cca2":  "VA",
+        "name":  {
+                     "common":  "Vatican City"
+                 },
+        "flags":  {
+                      "svg":  "https://flagcdn.com/va.svg"
+                  },
+        "languages":  {
+                          "ita":  "Italian",
+                          "lat":  "Latin"
+                      },
+        "capital":  [
+                        "Vatican City"
+                    ],
+        "population":  0
+    }
+]
